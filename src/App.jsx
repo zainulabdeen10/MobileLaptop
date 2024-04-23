@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Product from "./components/Product";
 import ProductDetail from "./components/ProductDetail";
 import Cart from "./components/Cart";
-import SearchItem from "./components/Searchitem";
+import SearchItem from "./components/SearchItem"; // Updated file name
 import { items } from "./components/Data";
 
 const App = () => {
